@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "Example exercise",
-      "nl": "Voorbeeldoefening"
+      "en": "Test 1",
+      "nl": "Test 1"
     }
   },
   "internals": {
@@ -11,7 +11,8 @@
   },
   "labels": [
     "example",
-    "database"
+    "database",
+    "sql"
   ],
   "type": "exercise"
 }
