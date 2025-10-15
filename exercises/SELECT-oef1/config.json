@@ -1,16 +1,11 @@
 {
   "type": "sql",
   "submission": {
-    "query": "solution.sql"
+    "query": "evaluation/solution.sql"
   },
   "evaluation": {
-    "database": "evaluation/studenten.db",
+    "database": "evaluation/Studenten.sqlite",
     "setup": "evaluation/preparation.sql",
     "solution": "evaluation/solution.sql"
-  },
-  
-  "internals": {
-    "token": "3CD7D3c78PmI3Aj4MtRJzrq-3qZSEuT6krFcm-P7c_hnWrM58eE-zD8cvH_enrEC",
-    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
