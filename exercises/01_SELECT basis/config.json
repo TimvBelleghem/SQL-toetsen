@@ -1,0 +1,9 @@
+{
+  "type": "sql",
+  "submission": {
+    "query": "solution.sql"
+  },
+  "evaluation": {
+    "database": "evaluation/studenten.db"
+  }
+}
