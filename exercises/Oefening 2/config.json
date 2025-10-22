@@ -1,17 +1,18 @@
 {
   "description": {
     "names": {
-      "en": "Example exercise",
-      "nl": "Voorbeeldoefening"
+      "en": "Test 1",
+      "nl": "Test 1"
     }
   },
   "internals": {
-    "token": "xXZmgXhJ2UMyj6ksSqbnCDEdPuZubfFNuwHAKSVsYuTzvgnywWURfSiaUWJ7tEFa",
+    "token": "XNPIT3-TBCeIXxUxtBUtXZjJkQnDcBJ-qVczNwxnBDssTTDWytENqb2gkqFTBtrn",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "labels": [
     "example",
-    "database"
+    "database",
+    "sql"
   ],
   "type": "exercise"
 }
