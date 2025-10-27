@@ -1,3 +1,7 @@
-![Database schema icon markdown](https://dodona.ugent.be/nl/repositories/72/public/database_info_icon.png){:data-large="https://dodona.ugent.be/nl/repositories/72/public/database_schema.png"}{:style="float: right"}
+# Oefening 1 – Alle studenten tonen
 
-Versie 2
+Toon alle gegevens van alle studenten in de tabel `Studenten`.
+
+Gebruik een eenvoudige `SELECT *`-opdracht.
+
+![Database schema](LINK_TO_DATABASE_ICON){:data-large="LINK_TO_DATABASE_SCHEMA_OVERVIEW"}{:style="float: right"}
