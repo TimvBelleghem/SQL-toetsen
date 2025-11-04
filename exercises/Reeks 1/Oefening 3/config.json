@@ -1,0 +1,18 @@
+{
+  "description": {
+    "names": {
+      "en": "Exercise 3",
+      "nl": "Oefening 3"
+    }
+  },
+  "internals": {
+    "token": "gINmSaWx3G7vVcAIgHPsKz2HkhgazUs_dFg5WBpI_Bir7yYVPQFm5Cqvkzp2rPPE",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+    "example",
+    "database",
+    "sql"
+  ],
+  "type": "exercise"
+}
