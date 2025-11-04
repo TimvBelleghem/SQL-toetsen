@@ -1,6 +1,12 @@
 {
   "description": {
-    "names": { "nl": "SQL – Werken met LIKE" }
+    "names": {
+      "nl": "SQL ï¿½ Werken met LIKE"
+    }
   },
-  "type": "chapter"
+  "type": "chapter",
+  "internals": {
+    "token": "cf4n6iF_AUXAVYGxqeB3m8Qp3tZSZQ4pE29Vp5rJ7ENIeDns9QVJSJZIaUijfxNW",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
