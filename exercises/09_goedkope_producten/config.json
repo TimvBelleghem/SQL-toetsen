@@ -1,0 +1,11 @@
+{
+  "description": {
+    "names": {
+      "nl": "Selecteer studenten uit Brugge"
+    }
+
+  },
+ 
+   "labels": ["sql", "select"],
+  "type": "exercise"
+}

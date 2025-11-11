@@ -1,0 +1,11 @@
+{
+  "description": {
+    "names": {
+      "nl": "Studenten met een hoog gemiddelde"
+    }
+
+  },
+ 
+    "labels": ["where", "studenten", "filteren"],
+  "type": "exercise"
+}

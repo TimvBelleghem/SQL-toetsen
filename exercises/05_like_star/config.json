@@ -1,0 +1,9 @@
+{
+  "description": {
+    "names": {
+      "nl": "Films met 'Star' in de titel"
+    }
+  },
+  "labels": ["like", "films", "zoeken"],
+  "type": "exercise"
+}

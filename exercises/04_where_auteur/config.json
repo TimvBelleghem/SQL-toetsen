@@ -1,0 +1,9 @@
+{
+  "description": {
+    "names": {
+      "nl": "Boeken van Dan Brown"
+    }
+  },
+  "labels": ["where", "boeken"],
+  "type": "exercise"
+}
