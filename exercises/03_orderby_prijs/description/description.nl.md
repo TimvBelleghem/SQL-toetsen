@@ -23,4 +23,4 @@ Deze bevat één tabel **Producten** met volgende kolommen:
 Toon alle producten en sorteer de resultaten **van duur naar goedkoop**.  
 Geef enkel de kolommen: `Naam`, `Categorie`, `Prijs`, `Voorraad` en `Leverancier`.
 
-Gebruik een SQL-query met `ORDER BY`.
+

@@ -21,5 +21,5 @@ Deze bevat één tabel **Producten** met volgende kolommen:
 ## Opdracht
 
 Toon **Naam**, **Land**, **Korting** en **Prijs**
-voor producten afkomstig uit **België** (`Land = 'België'`)
+voor producten afkomstig uit **België** 
 die een **Korting groter dan 5%** hebben.

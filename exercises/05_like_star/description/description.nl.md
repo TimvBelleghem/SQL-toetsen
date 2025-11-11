@@ -23,4 +23,3 @@ Deze bevat één tabel **Films** met volgende kolommen:
 Toon **alle films waarvan de titel het woord 'Star' bevat**.  
 Geef de kolommen: `Titel`, `Regisseur`, `Jaar`, `Rating`.
 
-Gebruik de `LIKE`-operator.

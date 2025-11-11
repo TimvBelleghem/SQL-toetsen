@@ -22,4 +22,3 @@ Deze bevat één tabel **Boeken** met volgende kolommen:
 Toon **alle boeken geschreven door Dan Brown**.  
 Geef de kolommen: `Titel`, `Auteur`, `Genre`, `Jaar`, `Prijs`.
 
-Gebruik een `WHERE`-voorwaarde om enkel zijn boeken te selecteren.

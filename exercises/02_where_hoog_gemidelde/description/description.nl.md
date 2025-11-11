@@ -21,6 +21,6 @@ Deze bevat de tabel **Studenten** met volgende kolommen:
 ## Opdracht
 
 Toon **alle studenten met een gemiddelde score hoger dan 16**.  
-Geef alle kolommen weer (`SELECT *`).
+Geef alle kolommen weer
 
-De tabel moet dus enkel die studenten bevatten waarvan `Gemiddelde > 16`.
+
