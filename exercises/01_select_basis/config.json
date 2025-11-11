@@ -1,0 +1,9 @@
+{
+  "description": {
+    "names": {
+      "nl": "Selecteer studenten uit Brugge"
+    }
+  },
+  "labels": ["select", "basis", "studenten"],
+  "type": "exercise"
+}
