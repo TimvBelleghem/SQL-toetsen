@@ -3,6 +3,11 @@
     "names": {
       "nl": "Selecteer studenten uit Brugge"
     }
+
+  },
+  "internals": {
+    "token": "XNPIT3-TBCeIXxUxtBUtXZjJkQnDcBJ-qVczNwxnBDssTTDWytENqb2gkqFTBtrn",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "labels": ["select", "basis", "studenten"],
   "type": "exercise"
