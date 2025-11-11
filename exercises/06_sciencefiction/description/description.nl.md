@@ -1,6 +1,7 @@
 # Oefening 6 — Sciencefictionfilms
 
-Je werkt op de databank **Films.sqlite**.
+Je werkt op de databank **films.sqlite**.  
+Deze bevat één tabel **Films** met volgende kolommen:
 
 | Kolom | Type | Beschrijving |
 |--------|-------|--------------|

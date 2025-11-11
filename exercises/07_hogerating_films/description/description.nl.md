@@ -1,6 +1,8 @@
-# Oefening 6 — Sciencefictionfilms
+# Oefening 7 - High rating
 
-Je werkt op de databank **Films.sqlite**.
+
+Je werkt op de databank **films.sqlite**.  
+Deze bevat één tabel **Films** met volgende kolommen:
 
 | Kolom | Type | Beschrijving |
 |--------|-------|--------------|
